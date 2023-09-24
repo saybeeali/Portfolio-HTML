@@ -49,9 +49,9 @@ body{
 .github-pic{
     height: 475px;
 }
-i{
+/* i{
     padding: 20px;
-}
+} */
 
 a,a:hover,a:active,a:focus {
 	display:inline-block;
